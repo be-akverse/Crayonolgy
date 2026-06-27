@@ -4,7 +4,6 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&color=ff7675)
 ![Made With](https://img.shields.io/badge/made%20with-Calligraphr-e17055?style=flat-square)
-![Hackathon](https://img.shields.io/badge/hackathon-40%2B%20hours-00cec9?style=flat-square)
 
 ## What is this?
 
