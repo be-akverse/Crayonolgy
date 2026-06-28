@@ -1,11 +1,5 @@
-# Crayonolgy
 
-> A font that looks like it was made by a 3-year-old. Because it basically was.
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&color=ff7675)
-![Made With](https://img.shields.io/badge/made%20with-Calligraphr-e17055?style=flat-square)
-
-## What is this?
+## What Crayonlgy is?
 
 **Crayonolgy** is a partially hand drawn display font created to hopefully win an E-READER, Instead of perfecting digital curves, I embraced the chaotic, thick-stroked, wobbly aesthetic of toddler art.
 
