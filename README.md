@@ -3,15 +3,13 @@
 
 **Crayonolgy** is a partially hand drawn display font created to hopefully win an E-READER, Instead of perfecting digital curves, I embraced the chaotic, thick-stroked, wobbly aesthetic of toddler art.
 
-Every letter was drawn with marker on paper, digitized with [Calligraphr](https://www.calligraphr.com/), and packaged into a free, open-source `.ttf` font file.
-
 ## Live Demo
 
 **[View the Website](https://be-akverse.github.io/Crayonolgy)**
 
 Making Fonts is not my thing but making websites is!
 
-## 📥 Download
+## Download
 
 | File | Description |
 |------|-------------|
@@ -23,42 +21,19 @@ Making Fonts is not my thing but making websites is!
 - **Mac:** Double-click `.ttf` → "Install Font"
 - **Linux:** Copy `.ttf` to `~/.fonts/` or `~/.local/share/fonts/`
 
-## 🛠️ Built With
+## Tech Stack
 
 - [Calligraphr](https://www.calligraphr.com/)
 - [Canva](https://www.canva.com/) 
-- HTML/CSS/JS — The chaotic website
+- HTML/CSS/JS 
 - 4+ hours of passionate caffeine
 
-## 📂 Project Structure
 
-```
-Crayonolgy/
-├── index.html         
-├── Crayonolgy.ttf     
-├── README.md           
-└── LICENSE             
-```
-
-## 🏆 Hackathon Stats
-
-| Stat | Value |
-|------|-------|
-| Hours Spent | 4+ |
-| Nap Breaks | 3 |
-| Brain Cells Lost | ~12 |
-
-## 🤝 Open Source
+## Open Source
 
 This project is licensed under the **MIT License** feel free to use the font in personal or commercial projects. Just don't blame me if your design looks like a toddler made it. That's the point.
 
-## 🙏 Credits
 
-- Font created during to try to get an E-READER (looks impossible right now)
-- Website designed to match the chaos
-- Inspired by every child who ever drew on a wall
-
----
 
 <p align="center">
   <sub>No fonts were harmed in the making of this project.</sub>
